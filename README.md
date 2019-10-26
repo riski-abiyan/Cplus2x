@@ -1,2 +1,0 @@
-# C-
-All c++ program 
